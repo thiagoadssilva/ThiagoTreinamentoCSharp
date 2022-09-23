@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\bin\Debug\net6.0\TreinamentoCs.exe
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\bin\Debug\net6.0\TreinamentoCs.deps.json
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\bin\Debug\net6.0\TreinamentoCs.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\bin\Debug\net6.0\TreinamentoCs.dll
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\bin\Debug\net6.0\TreinamentoCs.pdb
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.dll
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\refint\TreinamentoCs.dll
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.pdb
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\TreinamentoCs.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\TreinamentoCs\TreinamentoCs\obj\Debug\net6.0\ref\TreinamentoCs.dll
