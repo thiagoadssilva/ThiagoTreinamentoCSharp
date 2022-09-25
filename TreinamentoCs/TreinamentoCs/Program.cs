@@ -6,8 +6,13 @@ namespace TreinamentoCs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+
+            float salario = 3.400f;
+
+            var di = 3.400;
         }
+
     }
 }
 
