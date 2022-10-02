@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\bin\Debug\net6.0\CalculatorImc.exe
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\bin\Debug\net6.0\CalculatorImc.deps.json
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\bin\Debug\net6.0\CalculatorImc.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\bin\Debug\net6.0\CalculatorImc.dll
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\bin\Debug\net6.0\CalculatorImc.pdb
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.dll
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\refint\CalculatorImc.dll
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.pdb
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\CalculatorImc.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\PROJETOS\BaltaIoTreinamentoCs\CalculatorImc\obj\Debug\net6.0\ref\CalculatorImc.dll
