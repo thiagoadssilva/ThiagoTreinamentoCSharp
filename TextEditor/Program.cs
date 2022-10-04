@@ -1,4 +1,6 @@
 ﻿
+using System.IO;
+
 Menu();
 
 static void Menu()
@@ -24,7 +26,18 @@ static void Menu()
 
 static void Abrir()
 {
+    Console.Clear();
+    Console.WriteLine("Qual é o caminho do arquivo?");
+    string path = Console.ReadLine();
 
+    using (var file = new StreamReader(path)) 
+    {
+        string texto = file.ReadToEnd();
+        Console.WriteLine(texto);
+    }
+    Console.WriteLine("");
+    Console.ReadLine();
+    Menu();
 }
 
 static void Editar()
@@ -42,6 +55,22 @@ static void Editar()
     } while (Console.ReadKey().Key != ConsoleKey.Escape);
 
     Console.WriteLine("-----------------------------------------------------");
-    Console.Write(texto);
+    Salvar(texto);
 
+}
+
+static void Salvar(string texto)
+{
+    Console.Clear();
+    Console.WriteLine("Qual vai ser o caminho para salvar o arquivo?");
+    var path = Console.ReadLine();
+
+    using (var file = new StreamWriter(path))
+    {
+        file.Write(texto);
+    }
+
+    Console.WriteLine($"Arquivo {path} salvo com sucesso!!");
+    Console.ReadKey();
+    Menu();
 }
