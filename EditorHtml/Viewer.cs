@@ -8,7 +8,7 @@ namespace EditorHtml
 {
     public static class Viewer
     {
-        public static void Show()
+        public static void Show(string text)
         {
             Console.Clear();
             Console.BackgroundColor = ConsoleColor.White;
@@ -16,7 +16,6 @@ namespace EditorHtml
             Console.Clear();
             Console.WriteLine("MODO VISUALIZAÇÂO");
             Console.WriteLine("-----------");
-            Start();
         }
     }
 }
